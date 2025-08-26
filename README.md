@@ -17,3 +17,5 @@ testes-selenium-login-compra/
 
 IDE utilizada foi o PyCharm e basta abrir o terminal e digitar o comando "python test_compra.py" e dar um ENTER que irá iniciar o teste. O mesmo vale para os demais testes, mudando apenas o arquivo .py...
 
+# Atualização:
+Foi adicionado o arquivo conftest.py para integrar os demais testes e usados os conceitos de classe e função com fixtures usando o pytest para deixar mais profissional e condizente com a realidade.
